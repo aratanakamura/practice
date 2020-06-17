@@ -1,0 +1,725 @@
+.back_ground {
+  background-color: rgb(42, 42, 42);
+}
+
+.all_order {
+  background-color: rgb(42, 42, 42);
+  color: white;
+  width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+  .all_order {
+    width: 100%;
+  }
+}
+
+.order {
+  background-color: rgb(42, 42, 42);
+  text-align: left;
+  float: left;
+  margin: 0px;
+  font-size: 8px;
+  line-height: 23px;
+}
+
+.cancell {
+  text-align: right;
+  margin: 0px;
+  background-color: rgb(42, 42, 42);
+}
+
+.back_ground2 {
+  background-color: black;
+}
+
+.en_telephone-number {
+  background-color: black;
+  color: white;
+  width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+  .en_telephone-number {
+    width: 100%;
+  }
+}
+
+.japan_en {
+  text-align: left;
+  margin: 0px;
+  border: 0px;
+  float: left;
+}
+
+.telephone-number {
+  margin: 0px;
+  border: 0px;
+  text-align: right;
+}
+
+.back_ground3 {
+  background-color: white;
+  font-size: 10px;
+}
+
+.bally-mwg99 {
+  background-color: white;
+  color: black;
+  height: 70px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+  .bally-mwg99 {
+    width: 100%;
+  }
+}
+
+.hutozi {
+  font-weight: 900;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+.ba-mwg99 {
+  background-color: white;
+  text-align: left;
+  margin: 0px;
+  border: 0px;
+  float: left;
+  line-height: 65px;
+}
+
+.icons99 {
+  margin: 0px;
+  border: 0px;
+  text-align: right;
+  line-height: 80px;
+  font-size: 15px;
+}
+
+.back_ground3-2 {
+  background-image: url("https://www.bally.jp/on/demandware.static/-/Library-Sites-bally-shared-general/default/dw9d5aad39/images/2020/new/clp/man-main.jpg");
+  font-size: 10px;
+}
+
+.bally-mwg99-2 {
+  color: black;
+  height: 200px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+  .bally-mwg99-2 {
+    width: 100%;
+  }
+}
+
+.ba-mwg99-2 {
+  color: white;
+  text-align: left;
+  margin: 0px;
+  border: 0px;
+  float: left;
+  line-height: 200px;
+  font-size: 20px;
+}
+
+.ms {
+  background-image: url(https://www.bally.jp/on/demandware.static/-/Library-Sites-bally-shared-general/default/dw9d5aad39/images/2020/new/clp/man-main.jpg);
+  color: white;
+  height: 230px;
+  position: relative;
+}
+
+.m-s {
+  position: absolute;
+  top: 5px;
+  left: 350px;
+  font-size: 25px;
+  margin: 0px;
+  border: 0px;
+  text-align: left;
+  line-height: 230px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1367px) {
+  .m-s {
+    position: absolute;
+    top: 5px;
+    left: 270px;
+    font-size: 25px;
+    margin: 0px;
+    border: 0px;
+    text-align: left;
+    line-height: 230px;
+    width: 800px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .m-s {
+    position: absolute;
+    top: 5px;
+    left: 545px;
+    font-size: 25px;
+    margin: 0px;
+    border: 0px;
+    text-align: left;
+    line-height: 230px;
+    width: 800px;
+    margin: 0 auto;
+  }
+}
+
+.m-snoato {
+  height: 100px;
+  background-color: white;
+}
+
+.contents_item {
+  text-align: center;
+  background-color: white;
+}
+
+.first-section {
+  position: relative;
+  background-color: white;
+  display: inline;
+}
+
+.gazoo {
+  width: 400px;
+}
+
+.shoes {
+  position: absolute;
+  top: -70px;
+  left: 180px;
+  z-index: 10;
+}
+
+.watch_immediately {
+  text-decoration: underline;
+  position: absolute;
+  top: -40px;
+  left: 187px;
+  font-size: 10px;
+  z-index: 10;
+}
+
+.second-section {
+  background-color: white;
+  position: relative;
+  display: inline;
+}
+
+.aida {
+  height: 20px;
+  background-color: white;
+}
+
+.right_img {
+  width: 400px;
+}
+
+.bag {
+  position: absolute;
+  top: -70px;
+  left: 180px;
+}
+
+.imasugumiru2 {
+  position: absolute;
+  top: -40px;
+  left: 180px;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+.contents_item2 {
+  text-align: center;
+  background-color: white;
+}
+
+.third-section {
+  position: relative;
+  background-color: white;
+  display: inline;
+}
+
+.acce {
+  position: absolute;
+  top: -70px;
+  left: 165px;
+  z-index: 10;
+}
+
+.watch_immediately2 {
+  text-decoration: underline;
+  position: absolute;
+  top: -40px;
+  left: 187px;
+  font-size: 10px;
+  z-index: 10;
+}
+
+.fourth-section {
+  background-color: white;
+  position: relative;
+  display: inline;
+}
+
+.aida {
+  height: 20px;
+  background-color: white;
+}
+
+.lady {
+  position: absolute;
+  top: -70px;
+  left: 125px;
+}
+
+.imasugumiru3 {
+  position: absolute;
+  top: -40px;
+  left: 180px;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+.contents_item3 {
+  text-align: center;
+  background-color: white;
+}
+
+.fifth-section {
+  position: relative;
+  background-color: white;
+  display: inline;
+}
+
+.colle {
+  position: absolute;
+  top: -70px;
+  left: 163px;
+  z-index: 10;
+}
+
+.watch_immediately3 {
+  text-decoration: underline;
+  position: absolute;
+  top: -40px;
+  left: 187px;
+  font-size: 10px;
+  z-index: 10;
+}
+
+.sixth-section {
+  background-color: white;
+  position: relative;
+  display: inline;
+}
+
+.aida {
+  height: 20px;
+  background-color: white;
+}
+
+.new-item {
+  position: absolute;
+  top: -70px;
+  left: 155px;
+}
+
+.imasugumiru4 {
+  position: absolute;
+  top: -40px;
+  left: 180px;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+.back_ground4 {
+  width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  position: relative;
+}
+
+@media screen and (max-width: 850px) {
+  .contents-womens {
+    width: 80%;
+  }
+}
+
+.contents-womens {
+  width: 800px;
+}
+
+@media screen and (max-width: 850px) {
+  .contents-womens {
+    width: 80%;
+  }
+}
+
+.nimarunimaru {
+  position: absolute;
+  top: 120px;
+  color: white;
+  font-size: 30px;
+  left: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .nimarunimaru {
+    width: 100%;
+  }
+}
+
+.imasugumiru {
+  position: absolute;
+  top: 200px;
+  left: 20px;
+}
+
+.back_ground5 {
+  background-color: whitesmoke;
+}
+
+.bally-news {
+  background-color: palevioletred;
+  color: black;
+  height: 200px;
+  width: 280px;
+  position: relative;
+}
+
+.ba-mwg {
+  font-size: 10px;
+  width: 500px;
+  text-align: left;
+  margin: 0px;
+  border: 0px;
+  float: left;
+  line-height: 200px;
+  background-color: whitesmoke;
+}
+
+.icons {
+  font-size: 9px;
+  width: 290px;
+  margin: 0px;
+  border: 0px;
+  text-align: left;
+  line-height: 20px;
+  float: left;
+  margin: 0 auto;
+  position: absolute;
+  top: 90px;
+  left: 500px;
+}
+
+@media screen and (max-width: 800px) {
+  .icons {
+    width: 80%;
+    position: absolute;
+  }
+}
+
+.input {
+  width: 300px;
+}
+
+@media screen and (max-width: 800px) {
+  .input {
+    width: 40%;
+    position: absolute;
+    top: 40px;
+    left: -500px;
+  }
+}
+
+.kozinnzyoho {
+  background-color: saddlebrown;
+}
+
+@media screen and (max-width: 800px) {
+  .kozinnzyoho {
+    width: 80%;
+    height: 50px;
+    background-color: royalblue;
+    position: absolute;
+  }
+}
+
+.under {
+  text-decoration: underline;
+}
+
+.back_ground6 {
+  background-color: white;
+  font-size: 7px;
+}
+
+.bally-news {
+  background-color: whitesmoke;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.e_mail_address {
+  float: right;
+}
+
+.en_telephone-number2 {
+  position: relative;
+  background-color: white;
+  color: black;
+}
+
+.en_telephone-number2::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: -1px;
+  /*線の上下位置*/
+  width: 190%;
+  /*線の長さ*/
+  height: 1px;
+  /*線の太さ*/
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  /*位置調整*/
+  background-color: black;
+  /*線の色*/
+}
+
+.en_telephone-number2::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -1px;
+  /*線の上下位置*/
+  display: inline-block;
+  width: 190%;
+  /*線の長さ*/
+  height: 1px;
+  /*線の太さ*/
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  /*位置調整*/
+  background-color: black;
+  /*線の色*/
+}
+
+.bar-last {
+  height: 70px;
+}
+
+.en_telephone-number2 {
+  background-color: white;
+  color: black;
+  width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+  .en_telephone-number2 {
+    width: 100%;
+  }
+}
+
+.japan_en2 {
+  text-align: left;
+  margin: 0px;
+  border: 0px;
+  float: left;
+}
+
+.telephone-number2 {
+  margin: 0px;
+  border: 0px;
+  text-align: right;
+}
+
+.square {
+  background-color: white;
+  height: 50px;
+}
+
+.back_ground7 {
+  background-color: white;
+  height: 330px;
+}
+
+.bally_follow {
+  font-size: 20px;
+  width: 800px;
+  margin: 0 auto;
+  height: 150px;
+  line-height: 160px;
+}
+
+.back_and_shoes {
+  width: 1230px;
+  height: 200px;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.red_back {
+  width: 200px;
+}
+
+@media screen and (max-width: 1050px) {
+  .red_back {
+    width: 20%;
+  }
+}
+
+.black_back {
+  width: 200px;
+}
+
+@media screen and (max-width: 1050px) {
+  .black_back {
+    width: 20%;
+  }
+}
+
+.color_shoes {
+  width: 200px;
+}
+
+@media screen and (max-width: 1050px) {
+  .color_shoes {
+    width: 20%;
+  }
+}
+
+.black_shoes {
+  width: 200px;
+}
+
+@media screen and (max-width: 1050px) {
+  .black_shoes {
+    width: 20%;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  .back_and_shoes {
+    width: 100%;
+  }
+}
+
+.back_ground8 {
+  text-align: center;
+}
+
+.footer {
+  background-color: white;
+  width: 800px;
+  font-size: 10px;
+  margin: 0 auto;
+  height: 270px;
+}
+
+.first_row {
+  float: left;
+  background-color: white;
+  width: 180px;
+}
+
+@media screen and (max-width: 1050px) {
+  .first_row {
+    width: 14%;
+  }
+}
+
+.second_row {
+  float: left;
+  background-color: white;
+  width: 180px;
+}
+
+@media screen and (max-width: 1050px) {
+  .second_row {
+    width: 14%;
+  }
+}
+
+.third_row {
+  float: left;
+  background-color: white;
+  width: 180px;
+}
+
+@media screen and (max-width: 1050px) {
+  .third_row {
+    width: 14%;
+  }
+}
+
+.fourth_row {
+  float: left;
+  background-color: white;
+  width: 260px;
+}
+
+@media screen and (max-width: 1050px) {
+  .fourth_row {
+    width: 14%;
+  }
+}
+
+.inputlast {
+  width: 260px;
+}
+
+@media screen and (max-width: 650px) {
+  .inputlast {
+    width: 115%;
+    height: 100px;
+    font-size: 5px;
+  }
+}
+
+.footer_last {
+  background-color: white;
+}
+
+.footer_last_last {
+  background-color: white;
+  width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+  .footer_last_last {
+    width: 100%;
+  }
+}
+
+.bsfltd {
+  float: left;
+  background-color: white;
+  font-size: 10px;
+}
+
+.bf {
+  float: right;
+  background-color: white;
+  font-size: 10px;
+}
